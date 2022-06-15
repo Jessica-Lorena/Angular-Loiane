@@ -4,7 +4,7 @@ import { Component, Input, OnInit } from '@angular/core';
   selector: 'app-curso',
   templateUrl: './input-property.component.html',
   styleUrls: ['./input-property.component.css'],
-  // inputs: ['nomeCurso:nome']
+  // inputs: ['nomeCurso:nome'] menos usado, mas funciona
 })
 export class InputPropertyComponent implements OnInit {
 
